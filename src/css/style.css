@@ -1,0 +1,37 @@
+/* .ibm-plex-serif-light {
+    font-family: "IBM Plex Serif", serif;
+    font-weight: 300;
+    font-style: normal;
+}  
+
+body {
+    font-family: "IBM Plex Serif", serif;
+} */
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.links-list ul li a {
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: darkmagenta;
+}
+
+a:active {
+    color: fuchsia;
+}
